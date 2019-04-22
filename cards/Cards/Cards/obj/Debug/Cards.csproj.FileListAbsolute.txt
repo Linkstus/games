@@ -1,0 +1,10 @@
+C:\Users\socce\Desktop\game\cards\Cards\Cards\bin\Debug\Cards.exe.config
+C:\Users\socce\Desktop\game\cards\Cards\Cards\bin\Debug\Cards.exe
+C:\Users\socce\Desktop\game\cards\Cards\Cards\bin\Debug\Cards.pdb
+C:\Users\socce\Desktop\game\cards\Cards\Cards\obj\Debug\Cards.csprojAssemblyReference.cache
+C:\Users\socce\Desktop\game\cards\Cards\Cards\obj\Debug\Cards.Form1.resources
+C:\Users\socce\Desktop\game\cards\Cards\Cards\obj\Debug\Cards.Properties.Resources.resources
+C:\Users\socce\Desktop\game\cards\Cards\Cards\obj\Debug\Cards.csproj.GenerateResource.cache
+C:\Users\socce\Desktop\game\cards\Cards\Cards\obj\Debug\Cards.csproj.CoreCompileInputs.cache
+C:\Users\socce\Desktop\game\cards\Cards\Cards\obj\Debug\Cards.exe
+C:\Users\socce\Desktop\game\cards\Cards\Cards\obj\Debug\Cards.pdb
